@@ -5,7 +5,7 @@
 - 📖 Right now I’m studying at *BSUIR*
 - 🌱 I’m currently learning *React*
 - 💻 My projects are available here - *[Portfolio](https://vailery-portfolio.netlify.app/)*
-- 🔭 I’m currently working on *[Blog](https://vailery-blog.netlify.app/)* and Spotify
+- 🔭 I’m currently working on *[Blog](https://vailery-blog.netlify.app/)* and *[Spotify](https://vailery-spotify.netlify.app/)* 
 - 🧭 Some facts: I love music, art & sport
 - 📌 Goals 2022: Realize myself in the IT sphere
 
